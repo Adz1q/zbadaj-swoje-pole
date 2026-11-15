@@ -27,7 +27,7 @@ Przy suszy nie ma komisji, która przyjedzie na pole. O tym, czy susza wystąpi�
 
 ## Dane
 
-Tylko publiczne i bezpłatne źródła, więc każdy może sprawdzić wynik sam: **NASA** (HLS, SMAP), **Copernicus** (Sentinel-1, Sentinel-2), **IUNG-PIB** (System Monitoringu Suszy Rolniczej) i **GUGiK** (granice działek).
+Publiczne źródła: **NASA** (HLS, SMAP), **Copernicus** (Sentinel-1, Sentinel-2), **IUNG-PIB** (System Monitoringu Suszy Rolniczej) i **GUGiK** (granice działek).
 
 Następny krok to **NISAR**: radar, który mierzy wilgotność gleby przez chmury, akurat w tygodniach, w których rośliny są najbardziej wrażliwe.
 
