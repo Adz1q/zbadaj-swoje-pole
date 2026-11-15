@@ -14,7 +14,7 @@ Projekt na **NASA Space Apps Challenge 2026**.
 
 ## Problem
 
-W suchych latach 2018–2019 polscy rolnicy tracili przez suszę średnio **8,8 mld zł rocznie**. Ubezpieczyciele wypłacili w tym czasie za suszę średnio **3 mln zł rocznie**. *(NIK, 2022)*
+W suchych latach 2018–2019 polscy rolnicy tracili przez suszę średnio **8,8 mld zł rocznie**. Wypłacone zostało im w tym czasie za suszę średnio **2,3 mld zł rocznie**. *(NIK, 2022)*
 
 Przy suszy nie ma komisji, która przyjedzie na pole. O tym, czy susza wystąpiła, decyduje model liczony dla całej gminy. Rolnik nie ma żadnego dokumentu o tym, co działo się na jego działce.
 
